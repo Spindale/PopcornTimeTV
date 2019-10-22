@@ -25,7 +25,7 @@ We need your help to localise Popcorn Time. Visit our [Translating Guide](https:
 
 ## Download
 
-Download the [latest .ipas](https://github.com/PopcornTimeTV/PopcornTimeTV/releases/latest). Supports both iOS 10.x - 13.0 and tvOS 10 - 13.0
+Download the [latest .ipas](https://github.com/PopcornTimeTV/PopcornTimeTV/releases/latest). Supports iOS 10.x to 13.x and tvOS 10.x - 13.x
 
 Alternatively you can [compile one yourself](https://github.com/PopcornTimeTV/PopcornTimeTV/wiki/Archiving-Popcorn-Time).
 
